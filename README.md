@@ -1,6 +1,7 @@
 # 🌟 Animated Landing Page with GSAP
 
-![Project Banner](https://via.placeholder.com/1200x600/2d3436/ffffff?text=Dynamic+GSAP+Landing+Page)
+🚀 **Live Demo:** [View on Vercel](https://animated-landing-page-with-gsap.vercel.app)  
+[![Vercel Deployment](https://img.shields.io/badge/vercel-deployed-%23000?logo=vercel)](https://your-project-url.vercel.app)  
 
 A visually stunning, infinitely looping animated landing page built with modern web technologies. This project showcases the power of GSAP for creating professional-grade animations.
 
